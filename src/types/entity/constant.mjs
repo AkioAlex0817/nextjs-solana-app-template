@@ -1,0 +1,2 @@
+import e from"bn.js";var o=(t=>(t[t.ROUND_DOWN=0]="ROUND_DOWN",t[t.ROUND_HALF_UP=1]="ROUND_HALF_UP",t[t.ROUND_UP=2]="ROUND_UP",t))(o||{}),c=new e(0),s=new e(1),w=new e(2),n=new e(3),N=new e(5),O=new e(10),_=new e(100),E=new e(1e3),U=new e(1e4);export{N as FIVE,s as ONE,o as Rounding,O as TEN,n as THREE,w as TWO,c as ZERO,_ as _100,E as _1000,U as _10000};
+//# sourceMappingURL=constant.mjs.map
